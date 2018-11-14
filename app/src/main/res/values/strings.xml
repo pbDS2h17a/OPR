@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Anime App</string>
+    <string name="buttonLeft">Anime hinzufügen</string>
+    <string name="buttonRight">Anime anzeigen</string>
+</resources>
